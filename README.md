@@ -1,4 +1,6 @@
 <!-- Meta-Badges -->
+![Poster](https://github.com/cheshirepezz/Crash-Course-on-Numerical-Astrophysics/blob/master/Poster.jpg "Poster")
+
 </p>
 
 <p align="center">
