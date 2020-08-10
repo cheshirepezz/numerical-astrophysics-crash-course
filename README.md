@@ -17,7 +17,9 @@
   </a>
   
 </p>
-### [NA2020](https://na2020.onrender.com/) Online Workshop
+
+## [NA2020](https://na2020.onrender.com/) Online Workshop
+
 <!-- Title -->
 <h1 align="center">
   Crash Course on Numerical Astrophysics
@@ -35,7 +37,7 @@
 - [Pluto](https://github.com/nghafourian/test/blob/master/Pluto.md)
 - [fft (Fast Fourier transform)](https://github.com/Shenavar/Anaconda-Installation.md/blob/master/fftw3.md)
 
-## Resources 
+### Resources 
 
 The **YouTube playlist** of video lectures is available [here](https://www.youtube.com/watch?v=nyOcf9UUc3E&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg).
 
