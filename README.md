@@ -37,6 +37,11 @@
 - [Pluto](https://github.com/nghafourian/test/blob/master/Pluto.md)
 - [Fast Fourier transform (FFt)](https://github.com/Shenavar/Anaconda-Installation.md/blob/master/fftw3.md)
 
+### codes
+
+- [Pluto](http://plutocode.ph.unito.it/). Please note that we found a typo in the official code v. 4.3. that causes problem for it to work with python 3.x. We have prepared a [fix](codes/patch_define_problem) that solves this issue. You can download this fixed version from [here](https://github.com/astrofum/na2020/raw/master/codes/PLUTO.tar.gz).
+- [pyro code](https://pyro2.readthedocs.io/en/latest/).
+
 ### Resources 
 
 The **YouTube playlist** of video lectures is available [here](https://www.youtube.com/watch?v=nyOcf9UUc3E&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg).
@@ -51,7 +56,7 @@ The **YouTube playlist** of video lectures is available [here](https://www.youtu
 | [Lecture 4](https://github.com/astrofum/na2020/blob/master/Dr.%20Bhargav%20Vaidya%20PLUTO_WrkShop_Example.pdf)   | [Lecture 4](https://www.youtube.com/watch?v=-P1hEpO7EII&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=4) | A Practical Introduction to the PLUTO Code |
 
 
-[Prof. Wilhelm Kley](https://www.tat.physik.uni-tuebingen.de/~kley/) from Institut für Astronomie & Astrophysik & Kepler Center for Astro and Particle Physics, University of Tübingen, Germany, talks about Numerical Hydrodynamics (Basics & Discretisation). All materials provided by Prof. Kley, including a basic introduction to numerical hydrodynamics, a project focused on linear advection, and some background on programming languages are available [here](https://www.tat.physik.uni-tuebingen.de/~kley/talks/mashad/index.html). Here [pyro](https://pyro2.readthedocs.io/en/latest/) code.
+[Prof. Wilhelm Kley](https://www.tat.physik.uni-tuebingen.de/~kley/) from Institut für Astronomie & Astrophysik & Kepler Center for Astro and Particle Physics, University of Tübingen, Germany, talks about Numerical Hydrodynamics (Basics & Discretisation). All materials provided by Prof. Kley, including a basic introduction to numerical hydrodynamics, a project focused on linear advection, and some background on programming languages are available [here](https://www.tat.physik.uni-tuebingen.de/~kley/talks/mashad/index.html).
 
 1. [Basics & Discretisation](https://www.youtube.com/watch?v=7d8wklyKjxU&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=7)
 2. [Discretisation](https://www.youtube.com/watch?v=Crj5hm-152Q&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=5)
