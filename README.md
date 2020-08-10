@@ -17,10 +17,10 @@
   </a>
   
 </p>
-
+### [NA2020](https://na2020.onrender.com/) Online Workshop
 <!-- Title -->
 <h1 align="center">
-  [NA2020](https://na2020.onrender.com/) Numerical Astrophysics Online Workshop
+  Crash Course on Numerical Astrophysics
 </h1>
 
 <!-- Subtitle -->
