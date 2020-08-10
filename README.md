@@ -41,7 +41,7 @@
 
 The **YouTube playlist** of video lectures is available [here](https://www.youtube.com/watch?v=nyOcf9UUc3E&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg).
 
-[Prof. Bhargav Vaidya](http://www.iiti.ac.in/people/~bvaidya/index.html) from Indian Institute of Technology (Indore, India) talks about Numerical Magnetohydrodynamics.
+* [Prof. Bhargav Vaidya](http://www.iiti.ac.in/people/~bvaidya/index.html) from Indian Institute of Technology (Indore, India) talks about Numerical Magnetohydrodynamics.
 
 | Slides | Video | Topic
 | :-------------: | :-------------: |  :------------- | 
@@ -51,21 +51,21 @@ The **YouTube playlist** of video lectures is available [here](https://www.youtu
 | [Lecture 4](https://github.com/astrofum/na2020/blob/master/Dr.%20Bhargav%20Vaidya%20PLUTO_WrkShop_Example.pdf)   | [Lecture 4](https://www.youtube.com/watch?v=-P1hEpO7EII&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=4) | A Practical Introduction to the PLUTO Code |
 
 
-[Prof. Wilhelm Kley](https://www.tat.physik.uni-tuebingen.de/~kley/) from Institut für Astronomie & Astrophysik & Kepler Center for Astro and Particle Physics, University of Tübingen, Germany, talks about Numerical Hydrodynamics (Basics & Discretisation). All materials provided by Prof. Kley, including a basic introduction to numerical hydrodynamics, a project focused on linear advection, and some background on programming languages are available [here](https://www.tat.physik.uni-tuebingen.de/~kley/talks/mashad/index.html). Here [pyro](https://pyro2.readthedocs.io/en/latest/) code.
+* [Prof. Wilhelm Kley](https://www.tat.physik.uni-tuebingen.de/~kley/) from Institut für Astronomie & Astrophysik & Kepler Center for Astro and Particle Physics, University of Tübingen, Germany, talks about Numerical Hydrodynamics (Basics & Discretisation). All materials provided by Prof. Kley, including a basic introduction to numerical hydrodynamics, a project focused on linear advection, and some background on programming languages are available [here](https://www.tat.physik.uni-tuebingen.de/~kley/talks/mashad/index.html). Here [pyro](https://pyro2.readthedocs.io/en/latest/) code.
 
 1. [Basics & Discretisation](https://www.youtube.com/watch?v=7d8wklyKjxU&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=7)
 2. [Discretisation](https://www.youtube.com/watch?v=Crj5hm-152Q&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=5)
 3. [Waves & Diffusion](https://www.youtube.com/watch?v=l_x-lPktet8&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=6)
 
-[Prof. Hanawa](https://www.cfs.chiba-u.ac.jp/outline/staff/hanawa.html)from Chiba University, Japan, talks about "Self-gravity in hydrodynamical simulations. [notes](https://github.com/astrofum/na2020/blob/master/Prof%20Hanawa%20revised%20grav-mashhad20.pdf) of the workshop ( which contains the exact analytical solution of the homework). Also, please check [FFTE: A Fast Fourier Transform Package](http://www.ffte.jp/) which is introduced by Prof. Hanawa and includes a package to compute Discrete Fourier Transform.
+* [Prof. Hanawa](https://www.cfs.chiba-u.ac.jp/outline/staff/hanawa.html)from Chiba University, Japan, talks about "Self-gravity in hydrodynamical simulations. [notes](https://github.com/astrofum/na2020/blob/master/Prof%20Hanawa%20revised%20grav-mashhad20.pdf) of the workshop ( which contains the exact analytical solution of the homework). Also, please check [FFTE: A Fast Fourier Transform Package](http://www.ffte.jp/) which is introduced by Prof. Hanawa and includes a package to compute Discrete Fourier Transform.
 
-1. [Preliminary](https://www.youtube.com/watch?v=2h37KYEgxqo&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=12)
-2. [Solve Poisson & Hydrodynamical eq.](https://www.youtube.com/watch?v=kDXi5P1Gdso&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=13)
-3. [Discussing Homework](https://www.youtube.com/watch?v=emfmsNSI39U&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=14)
+    1. [Preliminary](https://www.youtube.com/watch?v=2h37KYEgxqo&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=12)
+    2. [Solve Poisson & Hydrodynamical eq.](https://www.youtube.com/watch?v=kDXi5P1Gdso&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=13)
+    3. [Discussing Homework](https://www.youtube.com/watch?v=emfmsNSI39U&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=14)
 
-[Dr. Christoph Schäfer](https://www.tat.physik.uni-tuebingen.de/~schaefer/) from University of Tübingen, Germany, talks about N-Body Modelling Direct N-Body, slides and exercises, plus an introduction to N-Body Simulations with REBOUND, could be found [here](https://www.tat.physik.uni-tuebingen.de/~schaefer/teach/fum2020/).
+* [Dr. Christoph Schäfer](https://www.tat.physik.uni-tuebingen.de/~schaefer/) from University of Tübingen, Germany, talks about N-Body Modelling Direct N-Body, slides and exercises, plus an introduction to N-Body Simulations with REBOUND, could be found [here](https://www.tat.physik.uni-tuebingen.de/~schaefer/teach/fum2020/).
 
-1. [N-Body Modelling pt.I](https://www.youtube.com/watch?v=78z_1m6moGs&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=8)
-2. [N-Body Modelling pt.II](https://www.youtube.com/watch?v=78z_1m6moGs&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=8)
-3. [REBOUND](https://www.youtube.com/watch?v=78z_1m6moGs&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=8)
-4. [Hands-on exercises](https://www.youtube.com/watch?v=78z_1m6moGs&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=8)
+    1. [N-Body Modelling pt.I](https://www.youtube.com/watch?v=78z_1m6moGs&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=8)
+    2. [N-Body Modelling pt.II](https://www.youtube.com/watch?v=78z_1m6moGs&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=8)
+    3. [REBOUND](https://www.youtube.com/watch?v=78z_1m6moGs&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=8)
+    4. [Hands-on exercises](https://www.youtube.com/watch?v=78z_1m6moGs&list=PLK8a0xgFIhFC_Bu3o3sUK1GR2ufVHg-Eg&index=8)
