@@ -2,22 +2,18 @@
 </p>
 
 <p align="center">
-    <img alt="Size" src="https://img.shields.io/github/repo-size/ cheshirepezz /
-Crash-Course-on-Numerical-Astrophysics">
+    <img alt="Size" src="https://img.shields.io/github/repo-size/cheshirepezz/Crash-Course-on-Numerical-Astrophysics">
   </a>
-  <img alt="Forks" src="https://img.shields.io/github/forks/ cheshirepezz /
-Crash-Course-on-Numerical-Astrophysics">
+  <img alt="Forks" src="https://img.shields.io/github/forks/cheshirepezz/Crash-Course-on-Numerical-Astrophysics">
   </a>
-  <img alt="Stars" src="https://img.shields.io/github/stars/ cheshirepezz /
-Crash-Course-on-Numerical-Astrophysics">
+  <img alt="Stars" src="https://img.shields.io/github/stars/cheshirepezz/Crash-Course-on-Numerical-Astrophysics">
   </a>
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/ cheshirepezz /
-Crash-Course-on-Numerical-Astrophysics">
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/cheshirepezz/Crash-Course-on-Numerical-Astrophysics">
   </a>
-  <a href="https://github.com/ cheshirepezz /
-Crash-Course-on-Numerical-Astrophysics/graphs/contributors">
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/ cheshirepezz /
-Crash-Course-on-Numerical-Astrophysics">
+  <a href="https://github.com/cheshirepezz/Crash-Course-on-Numerical-Astrophysics /graphs/contributors">
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/cheshirepezz/Crash-Course-on-Numerical-Astrophysics">
+  </a>
+  <img alt="MIT Licence" src="https://img.shields.io/github/license/cheshirepezz/Crash-Course-on-Numerical-Astrophysics">
   </a>
   
 </p>
